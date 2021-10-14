@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wenqi.a.liu\\Documents\\workflow\\WorkFlowCoreDemo1\\WorkFlowCoreDemo1\\WorkFlowCoreDemo1.csproj": {}
+    "C:\\Users\\wenqi.a.liu\\Documents\\workflow\\workflowTogether\\WorkflowCorePractice\\WorkFlowCoreDemo1\\WorkFlowCoreDemo1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wenqi.a.liu\\Documents\\workflow\\WorkFlowCoreDemo1\\WorkFlowCoreDemo1\\WorkFlowCoreDemo1.csproj": {
+    "C:\\Users\\wenqi.a.liu\\Documents\\workflow\\workflowTogether\\WorkflowCorePractice\\WorkFlowCoreDemo1\\WorkFlowCoreDemo1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wenqi.a.liu\\Documents\\workflow\\WorkFlowCoreDemo1\\WorkFlowCoreDemo1\\WorkFlowCoreDemo1.csproj",
+        "projectUniqueName": "C:\\Users\\wenqi.a.liu\\Documents\\workflow\\workflowTogether\\WorkflowCorePractice\\WorkFlowCoreDemo1\\WorkFlowCoreDemo1.csproj",
         "projectName": "WorkFlowCoreDemo1",
-        "projectPath": "C:\\Users\\wenqi.a.liu\\Documents\\workflow\\WorkFlowCoreDemo1\\WorkFlowCoreDemo1\\WorkFlowCoreDemo1.csproj",
+        "projectPath": "C:\\Users\\wenqi.a.liu\\Documents\\workflow\\workflowTogether\\WorkflowCorePractice\\WorkFlowCoreDemo1\\WorkFlowCoreDemo1.csproj",
         "packagesPath": "C:\\Users\\wenqi.a.liu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wenqi.a.liu\\Documents\\workflow\\WorkFlowCoreDemo1\\WorkFlowCoreDemo1\\obj\\",
+        "outputPath": "C:\\Users\\wenqi.a.liu\\Documents\\workflow\\workflowTogether\\WorkflowCorePractice\\WorkFlowCoreDemo1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wenqi.a.liu\\AppData\\Roaming\\NuGet\\NuGet.Config",

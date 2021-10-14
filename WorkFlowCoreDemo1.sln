@@ -3,7 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkFlowCoreDemo1", "WorkFlowCoreDemo1\WorkFlowCoreDemo1.csproj", "{EF474C4A-EFDB-45F5-897A-801B9DF1FEB7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkFlowCoreDemo1", "WorkFlowCoreDemo1\WorkFlowCoreDemo1.csproj", "{EF474C4A-EFDB-45F5-897A-801B9DF1FEB7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DemoFromjianshututorial", "DemoFromjianshututorial", "{BDA97078-A3E0-4466-A824-FADFE6068A66}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkflowCoreDemo.Json", "WorkflowCoreDemo.Json\WorkflowCoreDemo.Json.csproj", "{A19B0C43-BFCA-4CDE-8FCA-83D86A261BE4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,9 +22,17 @@ Global
 		{EF474C4A-EFDB-45F5-897A-801B9DF1FEB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF474C4A-EFDB-45F5-897A-801B9DF1FEB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF474C4A-EFDB-45F5-897A-801B9DF1FEB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A19B0C43-BFCA-4CDE-8FCA-83D86A261BE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A19B0C43-BFCA-4CDE-8FCA-83D86A261BE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A19B0C43-BFCA-4CDE-8FCA-83D86A261BE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A19B0C43-BFCA-4CDE-8FCA-83D86A261BE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EF474C4A-EFDB-45F5-897A-801B9DF1FEB7} = {BDA97078-A3E0-4466-A824-FADFE6068A66}
+		{A19B0C43-BFCA-4CDE-8FCA-83D86A261BE4} = {BDA97078-A3E0-4466-A824-FADFE6068A66}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5068DA7A-61B3-4886-8F5A-EF40F4172C34}

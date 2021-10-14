@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lw1cp74g2bkTCuHK1E/T8LCFrTzN14Ufw0gTOmzYvHxPTmFQqZkcK3MT6g44IZ4+lzWhF2kEIwl62o6gaLnW+w==",
+  "dgSpecHash": "coUSN/Z/8x5Z2fqyfysAB7zHNiT9pKeTxdPUZAwS1ksJyJMkLksz5e2Iu5Nn0n27jZ80uvc2X22YU34z+hIFow==",
   "success": true,
-  "projectFilePath": "C:\\Users\\wenqi.a.liu\\Documents\\workflow\\WorkFlowCoreDemo1\\WorkFlowCoreDemo1\\WorkFlowCoreDemo1.csproj",
+  "projectFilePath": "C:\\Users\\wenqi.a.liu\\Documents\\workflow\\workflowTogether\\WorkflowCorePractice\\WorkFlowCoreDemo1\\WorkFlowCoreDemo1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wenqi.a.liu\\.nuget\\packages\\concurrenthashset\\1.1.0\\concurrenthashset.1.1.0.nupkg.sha512",
     "C:\\Users\\wenqi.a.liu\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.2.0\\microsoft.extensions.configuration.abstractions.2.2.0.nupkg.sha512",

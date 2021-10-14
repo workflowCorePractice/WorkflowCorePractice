@@ -4,13 +4,13 @@ using System.Text;
 using WorkflowCore.Interface;
 using WorkflowCore.Models;
 
-namespace WorkFlowCoreDemo1
+namespace WorkFlowCoreDemo1.BasicDemo.Steps
 {
-    public class Goodbye: StepBody
+    public class HelloWorld:StepBody
     {
         public override ExecutionResult Run(IStepExecutionContext context)
         {
-            Console.WriteLine("goodbye");
+            Console.WriteLine("helloworld");
             return ExecutionResult.Next();
         }
     }

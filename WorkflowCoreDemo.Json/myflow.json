@@ -1,0 +1,15 @@
+{
+  "Id": "helloworld",
+  "Version": 1,
+  "Steps": [
+    {
+      "Id": "Hello",
+      "StepType": "WorkFlowCoreDemo1.BasicDemo.Steps.HelloWorld,WorkFlowCoreDemo1",
+      "NextStepId": "Bye"
+    },
+    {
+      "Id": "Bye",
+      "StepType": "WorkFlowCoreDemo1.BasicDemo.Steps.Goodbye,WorkFlowCoreDemo1"
+    }
+  ]
+}
