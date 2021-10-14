@@ -4,13 +4,15 @@ using System.Text;
 using WorkflowCore.Interface;
 using WorkflowCore.Models;
 
-namespace WorkFlowCoreDemo1
+namespace WorkFlowCoreDemo1.InputDataToStep.Steps
 {
-    public class HelloWorld:StepBody
+    public class HelloWithName: StepBody
     {
+        public string name { get; set; }
+
         public override ExecutionResult Run(IStepExecutionContext context)
         {
-            Console.WriteLine("helloworld");
+            Console.WriteLine("Hello, " + name);
             return ExecutionResult.Next();
         }
     }
