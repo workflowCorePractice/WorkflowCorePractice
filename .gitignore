@@ -2,7 +2,11 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/WorkFlowCoreDemo1
-/passingDataDemo1/obj
-/WorkflowCoreDemo.Json/bin/Debug/netcoreapp3.1
+/.vs
+
+/WorkflowCoreDemo1.Json/bin
+/WorkflowCoreDemo1.Json/bin/Debug/netcoreapp3.1
 /WorkflowCoreDemo.Json/obj
+/WorkflowCoreDemo1/bin
+/WorkflowCoreDemo1/obj
+/WorkflowCoreDemo.Json/bin/Debug/netcoreapp3.1
